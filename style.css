@@ -1,0 +1,22 @@
+#student,#purple1{
+    color: rgb(139,0,139);
+  }
+div{
+    background-color: rgb(147,112,219);
+    color: white;
+    max-height:1500px;
+   }
+#green{
+          color: rgb(0,200,0);
+          }
+.purple{
+        color: rgb(139,0,139);
+        }
+#main
+     {
+     background-color: rgb(0,0,0);
+     color: rgb(255,121,181);
+     font-size:40px;
+     font-weight:Bold;
+     font-family:sans-serif;
+     }
